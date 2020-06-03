@@ -1,0 +1,10 @@
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\bin\Debug\GrowtopiaWorldResizer.exe.config
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\bin\Debug\GrowtopiaWorldResizer.exe
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\bin\Debug\GrowtopiaWorldResizer.pdb
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.csprojAssemblyReference.cache
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.Form1.resources
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.Properties.Resources.resources
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.csproj.GenerateResource.cache
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.exe
+C:\Users\KADIR\Source\Repos\GrowtopiaWorldResizer\GrowtopiaWorldResizer\obj\Debug\GrowtopiaWorldResizer.pdb
